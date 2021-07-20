@@ -43,6 +43,7 @@ li {
     background: url('./images/background-1.jpg') no-repeat 0 0;
     background-size: cover;
     transform: translateZ(50px);
+    -webkit-transform: translateZ ;
 }
 
 .minbox li:nth-child(2) {
